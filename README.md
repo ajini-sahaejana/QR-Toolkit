@@ -1,6 +1,6 @@
-# QR Tools
+# qrtools
 
-A QR Scanning and Creatin Kit.
+A new Flutter project.
 
 ## Getting Started
 
